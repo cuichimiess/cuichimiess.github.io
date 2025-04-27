@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Cuichi N. Miess"
+title                    : "Cuichi Miess"
 title_separator          : "-"
-name                     : "Cuichi N. Miess"
+name                     : "Cuichi Miess"
 description              : "personal description"
 url                      : "https://cuichimiess.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "cuichimiess/cuichimiess.github.io"
 author:
   # Biographic information
   avatar           : "/images/3_1.1klein.jpg"
-  name             : "Cuichi N. Miess"
+  name             : "Cuichi Miess"
   pronouns         : # example: "she/her"  
   bio              : "Research fellow and doctoral candidate"
   location         : "Munich, Germany"
