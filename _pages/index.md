@@ -1,3 +1,10 @@
+---
+layout: single
+title: "About"
+permalink: /about/
+author_profile: true
+---
+
 Hi!
 
 My name is Cuichi Miess, and I am a doctoral candidate at the Geschwister Scholl Institute of Political Science at LMU Munich.
