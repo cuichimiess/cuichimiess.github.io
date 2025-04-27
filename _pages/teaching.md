@@ -22,7 +22,8 @@ author_profile: true
   - Target group: 5th semester BA students
   - Content: This course aims to provide an introduction to the root causes and (long-term) consequences of conflict in African countries. Particular emphasis will be put on civil wars and their multiple trajectories. The course literature is mainly quantitative and aims to provide generalized findings of the research on armed conflict. Students are then asked to test and apply those findings on conflicts in African countries. The discussed topics include for instance the role of institutions, resource dependencies, the history and presence of outside interferences, post-conflict development, and the conflict trap.
 
- ## Tutorials (LMU Munich)
+
+## Tutorials (LMU Munich)
 
 - Methods of Political Science I: Data Collection and Research Designs
   - Term: Summer Semester 2023
