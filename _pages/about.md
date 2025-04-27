@@ -16,5 +16,4 @@ Currently, I also teach three undergraduate courses. These classes are designed 
 
 Before starting my Ph.D., I completed a Double Degree in Political Science (*LMU Munich*) and Current Democracies (*Universitat Pompeu Fabra, Barcelona*).
 
-
-If you are interested in my research, want to discuss related topics, or just want to get in touch, feel free to reach out via email - I am easily convincable to have a coffee brake.
+Feel free to reach out via email if you're interested in my research or just want to connect — and if you happen to be in Munich, I'm always up for a coffee!
