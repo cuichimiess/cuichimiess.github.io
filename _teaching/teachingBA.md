@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching
+published: false
 ---
 
 ## Undergraduate Courses
