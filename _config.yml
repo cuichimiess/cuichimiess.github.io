@@ -22,7 +22,7 @@ repository               : "cuichimiess/cuichimiess.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/3_1.1klein.jpg"
+  avatar           : "3_1.1klein.jpg"
   name             : "Cuichi Miess"
   pronouns         : # example: "she/her"  
   bio              : "Research fellow and doctoral candidate"
