@@ -11,10 +11,11 @@ author_profile: true
   - Term: Summer Semester 2025
   - Target group: 4th semester BA students
 >  <details>
-    <summary>Content</summary>
-    <p>
-     This course introduces to current research on armed conflict and economic development, with particular emphasis on their multiple interrelationships. Guided by the question why some countries fall into a trap of poverty and armed conflict, whereas others prosper and maintain political stability, the course surveys the leading quantitative research on the main topics in the field of comparative politics and political economy.
-    </p>
+>    <summary>Content</summary>
+>    <p>
+>     This course introduces to current research on armed conflict and economic development, with particular emphasis on their multiple interrelationships. Guided by the question why some countries fall into a trap of poverty and armed conflict, whereas others prosper and maintain political stability, the course surveys the leading quantitative research on the main topics in the field of comparative politics and political economy.
+>    </p>
+>    </details>
 
 - Armed Conflict in the International System
   - Term: Summer Semester 2024 & 2025
