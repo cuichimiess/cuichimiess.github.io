@@ -19,7 +19,7 @@ summary:hover {
   font-weight: bold;
 }
  details {
-  margin-top: 0.2em;
+  margin-top: 0.01em;
 }
  
 </style>
