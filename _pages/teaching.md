@@ -18,6 +18,10 @@ summary {
 summary:hover {
   font-weight: bold;
 }
+ details {
+  margin-top: 0.2em;
+}
+ 
 </style>
 >  <details>
 >    <summary>Content</summary>
